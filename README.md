@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/banner.svg" alt="Sift: AI Recruitment Desk" width="100%"/>
+<img src="banner.svg" alt="Sift: AI Recruitment Desk" width="100%"/>
 
 <br/>
 
